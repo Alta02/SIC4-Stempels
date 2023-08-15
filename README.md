@@ -4,7 +4,7 @@
 - [Penjelasan Alat dan Fitur-Fitur Stempels](#penjelasan-alat-dan-fitur-fitur-stempels)
   - [Daftar Isi](#daftar-isi)
   - [Hardware yang Digunakan](#hardware-yang-digunakan)
-  - [Rangkaian] (#Rangkaian-alat)
+  - [Rangkaian](#Rangkaian-Alat)
   - [Software yang Digunakan](#software-yang-digunakan)
   - [Fitur Conveyor Belt dengan Pemotongan](#fitur-conveyor-belt-dengan-pemotongan)
   - [Pengangkatan Keripik (dari Bumbu dan dari Penggorengan)](#pengangkatan-keripik-dari-bumbu-dan-dari-penggorengan)
@@ -20,8 +20,9 @@
 - Pisau presisi
 
 ## Rangkaian Alat
-![Rangkaian](Images/3D-Design.jpeg)
+![3D Design](Images/Rangkaian-Alat.jpeg)
 ![3D Design](Images/3D-Design.jpeg)
+
 
 ## Software yang Digunakan
 - Ubidots untuk platform pengumpulan dan tampilan data
