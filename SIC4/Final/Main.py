@@ -1,10 +1,13 @@
-import Modul.hx711py as berat
-import Modul.conveyor as conveyor
-import Modul.servo as servo
-import Modul.suhu as suhu
+from Modul.conveyor import *
+from Modul.servo import *
+from Modul.tele import *
+import time
 
-
-# berat.main_berat()
-# panggil_suhu = suhu.main_suhu()
-# panggil_conveyor = conveyor.main_conveyor()
-# servo.main_servo()
+if __name__ == "__main__":
+    while (True):
+        main_conveyor()
+        time.sleep(1)
+        main_servo()
+        time.sleep(1)
+        main_tele()
+        time.sleep(1)
