@@ -10,6 +10,7 @@
   - [Pengangkatan Keripik (dari Bumbu dan dari Penggorengan)](#pengangkatan-keripik-dari-bumbu-dan-dari-penggorengan)
   - [Penggorengan dengan Pengstabil Suhu Minyak dan Timer](#penggorengan-dengan-pengstabil-suhu-minyak-dan-timer)
   - [Penimbangan Keripik](#penimbangan-keripik)
+  - [Cara Penggunaan](#cara-Penggunaan)
 
 ## Hardware yang Digunakan
 - Raspberry Pi sebagai komputer utama
@@ -39,6 +40,11 @@ Setelah dipotong, keripik tempe masuk ke kolam bumbu melalui conveyor belt dan d
 Penggorengan dilengkapi dengan pengstabil suhu minyak dan timer untuk memastikan keripik tempe digoreng pada suhu dan waktu yang optimal.
 
 ## Penimbangan Keripik
-Setelah penggorengan selesai, keripik tempe diangkat ke tempat penimbangan menggunakan pengangkat, dan hasil timbangan ditampilkan melalui platform Ubidots dan aplikasi "Stempels".
+Setelah penggorengan selesai, keripik tempe diangkat ke tempat penimbangan menggunakan pengangkat, dan hasil timbangan ditampilkan melalui platform Ubidots dan aplikasi "Stempels".Dengan fitur-fitur unggulannya, Stempels memberikan efisiensi, konsistensi, dan kemudahan dalam proses pembuatan keripik tempe.
 
-Dengan fitur-fitur unggulannya, Stempels memberikan efisiensi, konsistensi, dan kemudahan dalam proses pembuatan keripik tempe.
+## Cara Penggunaan
+```bash
+git clone https://github.com/Alta02/SIC4-Stempels.git
+cd SIC4-Stempels/SIC4/Final
+python3 main.py
+```
