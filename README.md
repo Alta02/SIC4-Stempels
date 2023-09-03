@@ -20,8 +20,9 @@
 - Pisau presisi
 
 ## Rangkaian Alat
-![3D Design](Images/Rangkaian-Alat.jpeg)
+![Rangakaian](Images/Rangkaian-Alat.jpeg)
 ![3D Design](Images/3D-Design.jpeg)
+![Wiring](Images/Wiring-diagram.png)
 
 
 ## Software yang Digunakan
