@@ -2,6 +2,9 @@
 
 ![Made with Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?logo=Raspberry%20Pi&logoColor=white&labelColor=C51A4A)
 ![IoT Platform - Ubidots](https://img.shields.io/badge/IoT%20Platform-Ubidots-00ACD7.svg)
+![App Maker - Kodular](https://img.shields.io/badge/App_Maker-Kodular-purple)
+![Notifier - Telegram](https://img.shields.io/badge/Notifier-Telegram-navy)
+
 
 ## Daftar Isi
 - [Penjelasan Alat dan Fitur-Fitur Stempels](#penjelasan-alat-dan-fitur-fitur-stempels)
